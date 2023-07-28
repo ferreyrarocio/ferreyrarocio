@@ -2,11 +2,11 @@
 
  💟Who am i?
  
- 🦋My name is Rocio, I'm 22 years old and I am constantly searching for new ways to improve my skills and keep learning more stuff about programming using different languages, innovating with new ideas, challenging the limits of my imagination and taking advantage of color theory in the projects...  I love how automatic is coding, you write things and the the magic happens😵‍💫
+ 🦋My name is Rocio, I'm 22 years old and I am constantly searching for new ways to improve my skills and keep learning more stuff about programming using different languages, innovating with new ideas and taking advantage of color theory in the projects...  I love how automatic is coding, you write things and the the magic happens😵‍💫
 
  💟What do i do?
 
- 🚨Currently i'm trying new things related to web design and i yearn for a job that allows me to challenge the limits of my imagination and implement the power of color theory in my projects ;)
+ 🚨Currently i'm trying new things related to web design and i yearn for a job that allows me to challenge the limits of my imagination ;)
  
  🎓Henry's bootcamp has helped me to learn and to acquire the fundamental knowledge and experience to get off the ground. for which the technologies that I use are:
  - Javascript 
