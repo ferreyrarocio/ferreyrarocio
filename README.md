@@ -30,7 +30,10 @@
  
 📫 How to reach me: 
 
-- LinkedIn: http://www.linkedin.com/in/rocio-ferreyra-aguirrebengoa-384345201 
+<a href="www.linkedin.com/in/rocio-ferreyra-aguirrebengoa" target="_blank">
+<img src=https://img.shields.io/badge/Linkedin-%2324292e.svg?&style=for-the-badge&logo=Linkedin&logoColor=white alt=Linkedin style="margin-bottom: 5px;" />
+</a>
+
 - Mail: rocioferreyra@live.com
 
 😄 Pronouns: she/her
