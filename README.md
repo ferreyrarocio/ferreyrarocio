@@ -2,7 +2,7 @@
 
  💟Who am i?
  
- 🦋My name is Rocio, I'm 22 years old and I am constantly serachinG for new ways to improve my skills...impact idk innovar visualmente ARTISTICA TOTAL keep learning more stuff about programming using different languages, challenging the limits of my imagination and take advantage of color theory in the projects...  I love how automatic is coding, you write things and the the magic happens😵‍💫
+ 🦋My name is Rocio, I'm 22 years old and I am constantly searching for new ways to improve my skills and keep learning more stuff about programming using different languages, innovating with new ideas, challenging the limits of my imagination and taking advantage of color theory in the projects...  I love how automatic is coding, you write things and the the magic happens😵‍💫
 
  💟What do i do?
 
@@ -30,7 +30,7 @@
  
 📫 How to reach me: 
 
-- Linkedin: http://www.linkedin.com/in/rocio-ferreyra-aguirrebengoa-384345201
+- LinkedIn: http://www.linkedin.com/in/rocio-ferreyra-aguirrebengoa-384345201 
 - Mail: rocioferreyra@live.com
 
 😄 Pronouns: she/her
