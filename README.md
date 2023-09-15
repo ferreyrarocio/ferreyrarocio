@@ -2,7 +2,7 @@
 
  💟Who am i?
  
- 🦋My name is Rocio, I'm 22 years old and I am constantly searching for new ways to improve my skills and keep learning more stuff about programming using different languages, innovating with new ideas and taking advantage of color theory in the projects...  I love how automatic is coding, you write things and the the magic happens😵‍💫
+ 🦋My name is Rocio, I'm 22 years old and I am constantly looking for new ways to improve my skills and keep learning more stuff about programming using different languages, innovating with new ideas and taking advantage of color theory in the projects...  I love how automatic is coding, you write things and the the magic happens😵‍💫
 
  💟What do i do?
 
